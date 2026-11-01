@@ -3,7 +3,7 @@
 Bu depo, BLM2537 Ağ Tabanlı Programlamaya Giriş dersi kapsamında geliştirilen **Yemek Tarifleri ** projesinin kaynak kodlarını ve haftalık ilerleme kayıtlarını içermektedir.
 
 * **Öğrenci Adı Soyadı:** Hüsna Torun
-* **Proje Konusu:** Yemek Tarifleri ve Menü Yönetim Portalı
+* **Proje Konusu:** Yemek Tarifleri Portalı
 * **Haftalık İlerleme Sunum Videoları (Drive):** [Proje Videoları Klasörü](https://drive.google.com/drive/folders/1A7a-v1bSAYVwAhSOwPcI5jDtvfG_K24W?usp=sharing)
 
 ---
