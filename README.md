@@ -4,7 +4,7 @@ Bu depo, BLM2537 Ağ Tabanlı Programlamaya Giriş dersi kapsamında geliştiril
 
 * **Öğrenci Adı Soyadı:** Hüsna Torun
 * **Proje Konusu:** Yemek Tarifleri Portalı
-* **Haftalık İlerleme Sunum Videoları (Drive):** [Proje Videoları Klasörü](https://drive.google.com/drive/folders/1A7a-v1bSAYVwAhSOwPcI5jDtvfG_K24W?usp=sharing)
+
 
 ---
 
