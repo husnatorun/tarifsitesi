@@ -12,4 +12,4 @@ Bu depo, BLM2537 Ağ Tabanlı Programlamaya Giriş dersi kapsamında geliştiril
 
 * **Hafta 1:** Proje ana sayfası (`index.html`) iskeleti oluşturuldu, temel tasarım yapısı başlatıldı.
 * **Hafta 2:** `menulerimiz.html` sayfası geliştirildi. HTML5 semantik etiketleri (`<main>`, `<section>`, `<ul>`, `<ol>`), yemek listesi tablosu (`colspan` kullanımı) ve harici stil dosyası (`stil.css` ile kutu modeli ve ortalama) projeye dahil edildi.
- * **Hafta 3:**tarif-ekle formu ve sayfa baglantilari eklendi
+* **Hafta 3:** tarif-ekle formu ve sayfa baglantilari eklendi
