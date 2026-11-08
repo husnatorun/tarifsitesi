@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yeni Tarif Ekle - Yemek Tarifleri </title>
+    <link rel="stylesheet" href="css/stil.css">
+</head>
+<body>
+    <header>
+        <h1>
+        <img src="tarifekle.jpeg" width="94" >
+        YEMEK MENÜLERİ
+        </h1>
+    <nav>
+        <h2>Menü ve Sayfalar</h2>
+      <ul>
+        <li><a href="index.html" >Ana Sayfa</a></li>
+        <li><a href="tarifler.html">Tarifler</a></li>
+        <li><a href="hakkimda.html">Hakkımda</a></li>
+      </ul>
+    </nav>
+    </header>
+
+    <main>
+        <section id="tarif-ekleme-alani">
+            <h2>Yeni Bir Tarif Paylaş</h2>
+            <p>Kendi özel tarifinizi aşağıdaki formu eksiksiz doldurarak sayfamızla paylaşabilirsiniz.</p>
+            <form id="tarifFormu">
+                <p>
+                <label for="tarifAdi">Yemek adı</label><br>
+                <input type="text" id="tarifAdi" name="tarifAdi" placeholder="Örn. Mercimek Çorbası" required>
+            </p>
+            <p>
+                <label for="sure">Hazırlık süresi (dakika)</label><br>
+                <input type="number" id="sure" name="sure" min="5" max="300" required>
+            </p>
+            <p>
+                <label for="kategori">Kategori</label><br>
+                <select id="kategori" name="kategori">
+                    <option value="corba">Çorba</option>
+                    <option value="anaYemek">Ana Yemek</option>
+                    <option value="tatli">Tatlı</option>
+                    <option value="hamurIsi">Hamur İşi</option>
+                </select>
+            </p>
+            <p>
+                Zorluk derecesi:
+                <input type="radio" id="kolay" name="zorluk" value="kolay" checked>
+                <label for="kolay">Kolay</label>
+                <input type="radio" id="orta" name="zorluk" value="orta">
+                <label for="orta">Orta</label>
+                <input type="radio" id="zor" name="zorluk" value="zor">
+                <label for="zor">Zor</label>
+            </p>
+            <p>
+                <label for="tarih">Eklenme tarihi</label><br>
+                <input type="date" id="tarih" name="tarih">
+            </p>
+            <p>
+                <input type="checkbox" id="favori" name="favori">
+                <label for="favori">Favori tariflerime ekle</label>
+            </p>
+            <p>
+                <label for="malzemeler">Malzemeler ve Tarif</label><br>
+                <textarea id="malzemeler" name="malzemeler" rows="4" cols="40" placeholder="Malzemeleri ve yapılışını yazınız..."></textarea>
+            </p>
+            <button type="submit">Kaydet</button>
+            </form>
+        </section>
+    </main>
+
+<footer>
+        <p>&copy; 2026 Yemek Tarifleri Portalı</p>
+    </footer>
+
+
+</body>
+</html>
